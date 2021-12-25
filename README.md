@@ -18,9 +18,13 @@ $ ls
 $ python free.py
 ### Donate
 • Dana  : 083806858479
+
 • Pulsa : 081392979518
 ### Sosial Media
 • Yt : Aang-XD
+
 • Wa : 089524163441
+
 • Fb : Saya Aang
+
 • Ig : my_aang_xd
