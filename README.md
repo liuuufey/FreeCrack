@@ -21,10 +21,10 @@ $ python free.py
 
 • Pulsa : 081392979518
 ### Sosial Media
-• Yt : Aang-XD
+• Yt  : Aang-XD
 
 • Wa : 089524163441
 
-• Fb : Saya Aang
+• Fb  : Saya Aang
 
-• Ig : my_aang_xd
+• Ig  : my_aang_xd
