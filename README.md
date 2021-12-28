@@ -1,3 +1,5 @@
+
+
 ## Install On Termux
 $ pkg update && pkg upgrade
 
@@ -20,12 +22,4 @@ $ python free.py
 • Dana  : 083806858479
 
 • Pulsa : 081392979518
-### Sosial Media
-• Yt  : Aang-XD
-
-• Wa : 089524163441
-
-• Fb  : Saya Aang
-
-• Ig  : my_aang_xd
-#### Thank You For Your Support
+### Thank You For Your Support
